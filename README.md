@@ -2,6 +2,8 @@
 
 # Passport
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/passport.svg)](https://greenkeeper.io/)
+
 [![Build](https://travis-ci.org/jaredhanson/passport.svg?branch=master)](https://travis-ci.org/jaredhanson/passport)
 [![Coverage](https://coveralls.io/repos/jaredhanson/passport/badge.svg?branch=master)](https://coveralls.io/r/jaredhanson/passport)
 [![Quality](https://codeclimate.com/github/jaredhanson/passport/badges/gpa.svg)](https://codeclimate.com/github/jaredhanson/passport)
